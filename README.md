@@ -1,7 +1,7 @@
 # ExpressionTreeCalculator
 ## How To Run
 ### 1: Download and run the exe file
-<br/>The exe file can be found in the repository or [click here]
+<br/>The exe file can be found in the repository or [click here](https://github.com/ChrisMansourian/ExpressionTreeCalculator/blob/main/ExpressionTreeCalculator.exe)
 ### 2: Download the code and run the program
 To download and run the code, be sure to have an IDE such as Visual Studio that is capable of running C# code.
 <br/>
@@ -17,4 +17,3 @@ In the abovve example, the a occurs twice.
 The program will convert this to the RPN expression: 5 a + b / 2 a c * / +
 <br/>
 The RPN can then be used to make the Expression Tree.
-[clickhere]: https://github.com/ChrisMansourian/ExpressionTreeCalculator/blob/main/ExpressionTreeCalculator.exe
