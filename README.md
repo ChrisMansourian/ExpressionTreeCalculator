@@ -1,7 +1,9 @@
 # ExpressionTreeCalculator
 ## How To Run
 ### 1: Download and run the exe file
-<br/>The exe file can be found in the repository or [click here](https://github.com/ChrisMansourian/ExpressionTreeCalculator/blob/main/ExpressionTreeCalculator.exe)
+The exe file can be found in the repository or [click here](https://github.com/ChrisMansourian/ExpressionTreeCalculator/blob/main/ExpressionTreeCalculator.exe)
+<br/>
+When downloaded, windows might have a warning about security risks due to unknown publisher.  To get passed this, click More Info, then Run Anyway.
 ### 2: Download the code and run the program
 To download and run the code, be sure to have an IDE such as Visual Studio that is capable of running C# code.
 <br/>
