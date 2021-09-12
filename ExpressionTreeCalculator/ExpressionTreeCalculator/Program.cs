@@ -31,7 +31,7 @@ namespace ExpressionTreeCalculator
                         string exitSolve = "";
                         while (exitSolve != "1" && exitSolve != "2")
                         {
-                            Console.WriteLine("Type 1 to solve the equation again or Type 2 to genter a new expression/exit");
+                            Console.WriteLine("Type 1 to solve the equation again or Type 2 to enter a new expression/exit");
                             exitSolve = Console.ReadLine();
                         }
                         if(exitSolve == "2")
